@@ -9,7 +9,7 @@ The R code uses the `ggplot2` library to visualize a raw PPG signal with detecte
 		- scatterplot  should be saved to `output/`
 	- `code/table.R` produces the table
 		- table should be saved to `output/`
-- `report.Rmd` load the code from `code/ppg.R` and `code/table.R` creating the report for analysis
+- `report.Rmd` load the code from `code/ppg.R` and `code/table.R` creating the final report for analysis
 
 
-`render_report.R` is used for rendering the report from the command line
+`render_report.R` is used for rendering the final report from the command line
