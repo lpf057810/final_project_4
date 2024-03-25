@@ -12,4 +12,5 @@ The R code uses the `ggplot2` library to visualize a raw PPG signal with detecte
 - `report.Rmd` load the code from `code/ppg.R` and `code/table.R` creating the final report for analysis
 
 
-`render_report.R` is used for rendering the final report from the command line
+`render_report.R` is used for rendering the final report from the command line 
+`Makefile` is also used for producing the final report from the command line
