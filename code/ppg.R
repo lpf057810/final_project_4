@@ -2,7 +2,6 @@ library(here)
 library(knitr)
 here::i_am("code/ppg.R")
 ppg <- read.csv("C:/Users/pengfei lou/Desktop/final_project_4/data/bangle.csv")
-kable(summary(ppg))
 
 library(ggplot2)
 
